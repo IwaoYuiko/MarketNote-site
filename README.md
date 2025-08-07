@@ -3,6 +3,7 @@
 
 ## Contact
 お問い合わせは、以下の窓口にご連絡ください。
-[お問い合わせはこちら（Googleフォーム）](　　)
+[お問い合わせはこちら（Googleフォーム）](https://forms.gle/6GfLQeD4zBkLGvCT8)
 
 ## Privacy policy
+[プライバシーポリシーはこちら](https://iwaoyuiko.github.io/MarketNote-site/privacy-policy.html)
